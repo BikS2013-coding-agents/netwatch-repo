@@ -1,0 +1,5 @@
+.DS_Store
+# Type files Claude Code lays into a plugin it loads from a local folder
+plugins/*/.claude-plugin/types/
+plugins/*/tsconfig.json
+node_modules/

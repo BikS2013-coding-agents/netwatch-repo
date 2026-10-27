@@ -1,0 +1,21 @@
+{
+  "name": "netwatch",
+  "owner": {
+    "name": "Giorgos Marinos"
+  },
+  "metadata": {
+    "description": "netwatch: a Claude Code mod that records and analyses a web app's API calls in Chrome",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "netwatch",
+      "description": "Watches a web app's API calls in Chrome through agent-browser (Chrome DevTools Protocol), shows them live and explains what happened in the session; works with any model provider",
+      "version": "0.2.0",
+      "source": "./plugins/netwatch",
+      "author": {
+        "name": "Giorgos Marinos"
+      }
+    }
+  ]
+}

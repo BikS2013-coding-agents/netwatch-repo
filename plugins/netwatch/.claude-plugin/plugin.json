@@ -1,0 +1,9 @@
+{
+  "name": "netwatch",
+  "version": "0.2.0",
+  "description": "Watches a web app's API calls in Chrome through agent-browser (Chrome DevTools Protocol), shows them live and explains what happened in the session; works with any model provider",
+  "author": {
+    "name": "Giorgos Marinos"
+  },
+  "types": "./types/index.d.ts"
+}
